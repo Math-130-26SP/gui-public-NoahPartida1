@@ -5,4 +5,6 @@ _This boss fight game will be between the player and the monster, in which the p
 the monster trading blows to deplete the other's health based on random numbers dealing damage, where the player has better odds._
 
 ## Your Mood Wireframe
-_This is my GUI Wireframe for my game Your Mood https://docs.google.com/drawings/d/14j7iW_x_-KUhXkT0tAV0jbfW79ONp6AeGuujTl-Mlto/edit?usp=sharing_
+_This is my GUI Wireframe for my game Your Mood https://docs.google.com/drawings/d/14j7iW_x_-KUhXkT0tAV0jbfW79ONp6AeGuujTl-Mlto/edit?usp=sharing
+
+and scenebuilder gui ![img.png](img.png)_
