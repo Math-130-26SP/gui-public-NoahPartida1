@@ -3,7 +3,7 @@ package math130.gui;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class YourMoodController {
     @FXML
     private Label welcomeText;
 
